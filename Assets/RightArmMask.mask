@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RightArmMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: DEF_Spine_1
+    m_Weight: 0
+  - m_Path: DEF_Spine_1/DEF_Spine_2
+    m_Weight: 0
+  - m_Path: DEF_Spine_1/DEF_Spine_2/DEF_Chest
+    m_Weight: 0
+  - m_Path: DEF_Spine_1/DEF_Spine_2/DEF_Chest/DEF_Camera__Boom
+    m_Weight: 0
+  - m_Path: DEF_Spine_1/DEF_Spine_2/DEF_Chest/DEF_Camera__Boom/DEF_Camera_Joint
+    m_Weight: 0
+  - m_Path: DEF_Spine_1/DEF_Spine_2/DEF_Chest/DEF_L_Shoulder
+    m_Weight: 0
+  - m_Path: DEF_Spine_1/DEF_Spine_2/DEF_Chest/DEF_L_Shoulder/DEF_L_Elbow
+    m_Weight: 0
+  - m_Path: DEF_Spine_1/DEF_Spine_2/DEF_Chest/DEF_L_Shoulder/DEF_L_Elbow/DEF_L_Wrist
+    m_Weight: 0
+  - m_Path: DEF_Spine_1/DEF_Spine_2/DEF_Chest/DEF_L_Shoulder/DEF_L_Elbow/DEF_L_Wrist/L_Fisto
+    m_Weight: 0
+  - m_Path: DEF_Spine_1/DEF_Spine_2/DEF_Chest/DEF_R_Shoulder
+    m_Weight: 1
+  - m_Path: DEF_Spine_1/DEF_Spine_2/DEF_Chest/DEF_R_Shoulder/DEF_R_Elbow
+    m_Weight: 1
+  - m_Path: DEF_Spine_1/DEF_Spine_2/DEF_Chest/DEF_R_Shoulder/DEF_R_Elbow/DEF_R_Wrist
+    m_Weight: 1
+  - m_Path: DEF_Spine_1/DEF_Spine_2/DEF_Chest/DEF_R_Shoulder/DEF_R_Elbow/DEF_R_Wrist/R_Fisto
+    m_Weight: 1

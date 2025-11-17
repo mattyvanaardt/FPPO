@@ -38,7 +38,7 @@
                     "id": "cfaedd52-d92f-4daa-b343-5ae0b7118f1f",
                     "expectedControlType": "",
                     "processors": "",
-                    "interactions": "",
+                    "interactions": "Hold(duration=0.4,pressPoint=1.401298E-45)",
                     "initialStateCheck": false
                 },
                 {
@@ -47,7 +47,7 @@
                     "id": "ed471f82-d4af-4138-a05f-23dfee55d27e",
                     "expectedControlType": "",
                     "processors": "",
-                    "interactions": "",
+                    "interactions": "Hold",
                     "initialStateCheck": false
                 }
             ],
@@ -133,7 +133,7 @@
                     "name": "",
                     "id": "d19f8289-3e1d-43f2-b2e5-b6b6af147b56",
                     "path": "<Mouse>/leftButton",
-                    "interactions": "",
+                    "interactions": "Hold(duration=0.1)",
                     "processors": "",
                     "groups": "",
                     "action": "ReadyL",
